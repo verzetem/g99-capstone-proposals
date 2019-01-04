@@ -42,7 +42,7 @@ This does not need to be an exhaustive list. We want you to identify major techn
 
 This does not need to be your absolute final ERD. We want you thinking about your data and how it might be related. Your ERD can be adjusted as your project progresses. 
 * **You can draw it out & take a picture (quickest option) or use:**
-* ![users table](https://imgur.com/BQiByFg)
+* ![users table](https://i.imgur.com/BQiByFg.png)
 * just one table for the time being
 
 
