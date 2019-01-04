@@ -56,6 +56,6 @@ Inlcude some wireframes of your project.
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
 * ![main dashboard view](https://i.imgur.com/brIIz1I.jpg)
-* ![profile view](https://i.imgur.comXJ0cqSI.jpg)
+* ![profile view](https://i.imgur.com/XJ0cqSI.jpg)
 
 Do not spend more than 2 hours on your wireframes.
