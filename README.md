@@ -27,7 +27,7 @@ Bringing in gaming related articles from mutliple publishers such as Kotaku, PCG
 ## STRETCH GOALS:
 * Custom lists rather than just "Favorites" 
 * User preferences that load upon sign in (preferences saved in DB, on sign in dashboard loads with JUST articles from Kotaku or IGN, etc)
-*
+* Filter by publisher AND game (i.e. Articles published by Kotaku related to Mario Kart)
 
 
 ## What technologies do you plan to use?
